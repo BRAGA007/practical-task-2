@@ -1,3 +1,6 @@
-I’m hungry, bro!
-I just want to sleep for a bit, OK?
-I just want to sleep for a bit, OK?
+extendedClass1: ExtendedClass{b=1, i=2, d=3.1, s='ABC'}
+extendedClass2: ExtendedClass{b=1, i=3, d=3.1, s='ABCD'}
+extendedClass3: ExtendedClass{b=1, i=3, d=3.1, s='ABCD'}
+Equals check:
+extendedClass1.equals(extendedClass2): false
+extendedClass2.equals(extendedClass3): true
