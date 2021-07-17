@@ -1,1 +1,1 @@
-# practocal-task-2
+# practical-task-2
